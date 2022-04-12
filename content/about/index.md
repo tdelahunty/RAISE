@@ -30,7 +30,8 @@ The group conducts research across all levels of STEM education, within singular
 The group is structured around a core committee, steered by a Chair, that sits for a period of 3 years. Full details of the membership and committee are available in the ['Members'](../people/people.md) section of the website. 
 
 
-
 The group is privileged to have a wide network of colleagues and regularly collaborates with external institutions and industry outside of academia. One of the core strengths of RAISE lies in its membership being distributed across a number if higher education institutions and unlike traditional research groups, we are always open to considering new members and partnerships. If you would like to have a chat about potential opportunities and collaborative projects, please get in touch via the [contact us](../contact/contact.md) page. 
+
+As a group we are always open to new collaborations across both research and outreach activities in STEM education. Please feel free to get in touch with us should you wish to discuss any opportunities. 
 
 ---

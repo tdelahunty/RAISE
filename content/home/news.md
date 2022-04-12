@@ -4,8 +4,8 @@ widget: pages
 headless: true
 weight: 20
 
-title: Recent News
-subtitle:
+title: Latest News
+subtitle: <a class="twitter-timeline" data-height="1200" data-theme="light" href="https://twitter.com/RAISE_Ireland?ref_src=twsrc%5Etfw">Tweets by RAISE_Ireland</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 content:
   count: 5
@@ -20,5 +20,5 @@ content:
   page_type: post
 design:
   view: 3
-  columns: '1'
+  columns: '2'
 ---

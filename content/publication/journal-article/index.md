@@ -1,9 +1,9 @@
 ---
 title: 'Teachers’ Perspectives on Achieving an Integrated Curricular Model of Primary STEM Education in Ireland: Authentic or Utopian Ideology?'
 authors:
-  - Thomas Delahunty
-  - Mark Prendergast
-  - Máire Ní Ríordáin
+  - admin
+  - Mark
+  - Máire
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'

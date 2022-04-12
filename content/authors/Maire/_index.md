@@ -4,7 +4,7 @@ title: Dr. Máire Ní Ríordáin
 
 # Username (this should match the folder name)
 authors:
-  - Máire
+  - Maire
 
 # Is this the primary user of the site?
 superuser: false

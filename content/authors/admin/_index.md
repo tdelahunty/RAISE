@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Thomas Delahunty
+title: Thomas Delahunty
 
 # Is this the primary user of the site?
 superuser: true
@@ -73,6 +73,6 @@ user_groups:
   - Researchers
 ---
 
-Tom is an Assistant Professor in Education at Maynooth University and is the course leader for years 1 and 2 of the BSc.in Education. He has previously held academic posts at the University of Birmingham, University College Cork, University of Nebraska-Lincoln and the University of Limerick.
+***Dr. Tom Delahunty CPsychol*** is an Assistant Professor in Education at Maynooth University and is the course leader for years 1 and 2 of the BSc.in Education. He has previously held academic posts at the University of Birmingham, University College Cork, University of Nebraska-Lincoln and the University of Limerick.
 
 Tom’s core research interests lie in the areas of STEM education across all levels of schooling, where he is particularly interested in issues of equality (e.g. gender) as well as the interaction of presage variables with issue of achievement. He actively researches in the broad area of teacher education and is committed to critical analysis of policy as it applies to practice and identity formation/change in teaching and learning contexts. In addition to these core areas, he actively promotes critical approaches to quantitative and educational research and has an emerging interest in how issues of power and neoliberalism interact with research practices and discourses in the field.

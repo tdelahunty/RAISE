@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Publications from RAISE
 
 # Listing view
 view: citation

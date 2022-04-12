@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+**RAISE** was formed by a group of academics working in a variety of areas of STEM education. The group has a core emphasis on conducting research and promoting inclusion in the broad area of STEM education both within Ireland and internationally.
