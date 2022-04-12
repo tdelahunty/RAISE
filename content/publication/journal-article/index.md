@@ -1,13 +1,15 @@
 ---
-title: 'An example journal article'
+title: 'Teachers’ Perspectives on Achieving an Integrated Curricular Model of Primary STEM Education in Ireland: Authentic or Utopian Ideology?'
 authors:
-  - admin
-  - Robert Ford
+  - Thomas Delahunty
+  - Mark Prendergast
+  - Máire Ní Ríordáin
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
+  - 'Equal contribution'
 date: '2015-09-01T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.3389/feduc.2021.666608'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -19,14 +21,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*Frontiers in Education (Lausanne), 6*'
 publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Integrative science, technology, engineering and mathematics (STEM) education is heralded as a promising model for effective learning of 21st century STEM literacies and has been suggested as an approach that increases student motivation and engagement. In recent years Ireland has introduced policy with a renewed emphasis on integrated STEM education across all levels of schooling and paying particular attention to the early years and primary settings. The available international literature cites many concerns with potential barriers and failures to achieve authentic integration of the various STEM disciplines in educational contexts. An important determinant of the success of integrated STEM curricula are the backgrounds and attitudes of the individual teachers, as well as supports/experiences in designing and implementing an integrated curricular approach. In the Irish context, this is often in conflict with prescribed overloaded curricula and a subject focussed education system. Therefore, research is required into primary school teachers’ perspectives on achieving a truly integrated model of STEM education, particularly in the Irish context. This study employed a qualitative approach using semi-structured interviews with a sample of practicing teachers (N = 6) to gather perspectives on the potential and challenge of integrating STEM in their respective experiences. These teachers were enrolled in a practice orientated module on STEM education as part of their postgraduate studies. The data gathered was analysed to ascertain these teachers’ perspectives on the supports needed to overcome the challenges of integrating STEM subjects within their professional settings. Essentially, the findings of this study will discuss whether such an integrated STEM model is an authentic or utopian ideology.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: This study employed a qualitative approach using semi-structured interviews with a sample of practicing teachers (N = 6) to gather perspectives on the potential and challenge of integrating STEM in their respective experiences.
 tags:
   - Source Themes
 featured: false
@@ -34,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.readcube.com/articles/10.3389/feduc.2021.666608
 url_code: ''
 url_dataset: ''
 url_poster: ''
