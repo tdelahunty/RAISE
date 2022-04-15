@@ -34,8 +34,8 @@ featured: false
 
 # links:
 # - name: ""
-url: //www.scienceopen.com/hosted-document?doi=10.14324/RFA.05.2.12
-url_pdf: //www.scienceopen.com/hosted-document?-1.ILinkListener-header-action~bar-download~dropdown-pdf~link-link&doi=10.14324/RFA.05.2.12
+url: 
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
