@@ -10,7 +10,7 @@ title: Research, Application, & Inclusion in STEM Education (RAISE) Research Gro
 hero_media: Logo.jpg
 design:
   background:
-    color: 'WhiteSmoke'
+    color: 'FFFFFF'
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   # Add custom styles
