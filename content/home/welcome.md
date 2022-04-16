@@ -9,6 +9,8 @@ weight: 10 # Order that this section will appear.
 title: Research, Application, & Inclusion in STEM Education (RAISE) Research Group
 hero_media: Logo.jpg
 design:
+  background:
+    color: 'WhiteSmoke'
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   # Add custom styles
@@ -18,4 +20,4 @@ design:
 
 <br>
 
-**RAISE** was formed by a group of academics working in a variety of areas of STEM education. The group has a core emphasis on conducting research and promoting inclusion in the broad area of STEM education both within Ireland and internationally.
+***RAISE*** was formed by a group of academics working in a variety of areas of STEM education across several higher education institutions in Ireland. The group has a core emphasis on conducting research and promoting inclusion in the broad area of STEM education both within Ireland and internationally.

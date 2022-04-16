@@ -45,8 +45,9 @@ outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
 imaging:
-  resampleFilter: lanczos
-  quality: 75
+  resampleFilter: CatmullRom
+  bgColor: '#ffffff'
+  quality: 90
   anchor: smart
 timeout: 600000
 taxonomies:
