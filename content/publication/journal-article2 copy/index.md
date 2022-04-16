@@ -37,8 +37,8 @@ featured: false
 
 # links:
 # - name: ""
-url: "//www.tandfonline.com/doi/full/10.1080/03323315.2021.1899030?scroll=top&needAccess=true"
-url_pdf: //www.tandfonline.com/doi/epub/10.1080/03323315.2021.1899030?needAccess=true
+url: ""
+url_pdf: //www.tandfonline.com/doi/pdf/10.1080/03323315.2021.1899030
 url_code: ''
 url_dataset: ''
 url_poster: ''
