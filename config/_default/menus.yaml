@@ -6,9 +6,6 @@
 main:
   - name: About
     url: about
-    weight: 5
-  - name: Tour
-    url: tour
     weight: 10
   - name: News
     url: post
@@ -22,6 +19,12 @@ main:
   - name: Publications
     url: publication
     weight: 50
+  - name: Projects
+    url: projects/
+    weight: 60
+  - name: Polyup in schools
+    parent: Projects
+    url: projects/polyup
   - name: Contact
     url: contact
-    weight: 60
+    weight: 70
