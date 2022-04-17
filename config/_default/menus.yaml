@@ -20,11 +20,8 @@ main:
     url: publication
     weight: 50
   - name: Projects
-    url: projects/
+    url: projects
     weight: 60
-  - name: Polyup in schools
-    parent: Projects
-    url: projects/polyup
   - name: Contact
     url: contact
     weight: 70
