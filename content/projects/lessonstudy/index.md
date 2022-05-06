@@ -1,5 +1,5 @@
 ---
-title: Attitudes & motivations for lesson study uptake
+title: Attitudes & motivations for lesson study uptake among second-level mathematics teachers
 authors: 
     - 
 

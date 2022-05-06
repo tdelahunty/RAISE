@@ -1,9 +1,9 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: RAISE at the Educational Studies Association of Ireland (ESAI) 2022 Annual Conference
 date: 2020-12-01
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+RAISE members presented two papers on some of the group's current research at the ESAI conference recently 
 
 <!--more-->
 
