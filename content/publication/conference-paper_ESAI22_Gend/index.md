@@ -30,16 +30,16 @@ tags:
 featured: true
 
 links:
-  - name: Custom Link
+  - name:
     url: 
 url_pdf: 
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
+url_code: 
+url_dataset: 
+url_poster: 
+url_project:
 url_slides: 'https://www.dropbox.com/s/01fvz46b4yl50s9/ESAI22%20Pres%20V1.pdf?dl=0'
-url_source: '#'
-url_video: '#'
+url_source: 
+url_video: 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
