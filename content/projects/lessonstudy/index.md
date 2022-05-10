@@ -19,7 +19,7 @@ draft: false
 
 ---
 ## **Project description**
-This project involves a collaboration between RAISE and partner secondary schools in the Cork region. The research aims to pilot and evaluate the effectiveness of the Polyup (now know as ‘LetsMod) digital learning platform in developing students’ problem solving and attitudes towards mathematics. 
+This project is broadly concerned with advancing the knowledge base on Lesson Study as a model of continuijng professional development for STEM teachers. A critical aspect of this broad goal is to investigate and isolate the motivational antecedents that contribute to a teacher's initial and continuing engagement in the approach. The research is currently concerned with exploring some of the psychological variables (teaching self-efficacy & attitudes to lesson study/professional developmeny) that may contribute to practicing teachers attitudes towards the model of CPD. 
 <br>
 <br>
 
