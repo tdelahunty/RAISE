@@ -60,6 +60,13 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides:
+
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: always
 ---
 
 Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
