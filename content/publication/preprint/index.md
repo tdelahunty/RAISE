@@ -1,8 +1,10 @@
 ---
-title: 'An example preprint / working paper'
+title: 'Gender stereotypes and self-concept as predictors of pre-service early childhood teachers’ STEM attitudes  '
 authors:
   - admin
-date: '2019-04-07T00:00:00Z'
+  - Maire
+  - Mark
+date: '2022'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -30,12 +32,12 @@ featured: false
 links:
   - name: Custom Link
     url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: 
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
-url_slides: ''
+url_slides: 'https://www.dropbox.com/s/01fvz46b4yl50s9/ESAI22%20Pres%20V1.pdf?dl=0'
 url_source: '#'
 url_video: '#'
 
