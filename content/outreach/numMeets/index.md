@@ -12,15 +12,16 @@ commentable: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
-  placement: 2
+  placement: 1
   caption: 
-  focal_point: "Center"
+  focal_point: "Smart"
   preview_only: false
   alt_text:
 
 ---
-
-On this page you will find all recordings of the numeracy meets sessions and accompanying slides. If you would like to know more, please contact Dr. Mark Prendergast at mark.prendergast@ucc.ie
+{{% callout note %}}
+On this page you will find all recordings of the numeracy meets sessions and accompanying slides. If you would like to know more, please contact Dr. Mark Prendergast at mark.prendergast@ucc.ie.
+{{% /callout %}}
 
 ### Numeracy Meet 1: Introduction to numeracy
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mFyh8DPjbVc?start=31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
