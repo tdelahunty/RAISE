@@ -5,5 +5,5 @@ summary: Here you can find details of some of the outreach and community project
 type: widget_page
 
 # Homepage is headless, other widget pages are not.
-headless: true
+headless: false
 ---
