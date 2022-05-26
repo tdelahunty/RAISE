@@ -11,7 +11,7 @@ editable: false
 commentable: false
 ---
 
-'UCD, with RAISE member Dr. Aoibhinn Ní Shúilleabháin, has partnered with ten role models to create a series of videos to encourage more girls to consider a career in pSTEM[^*]. The video series, entitled “Role Models in pSTEM: You Can Be What You Can See”, showcases ten female role models from across Ireland who have studied physics, maths, engineering, or computer science. The videos were premiered today on site at UCD with their target audience of 2nd year post-primary students. The role models were also in attendance to meet and chat with the students.'
+UCD, with RAISE member Dr. Aoibhinn Ní Shúilleabháin, has partnered with ten role models to create a series of videos to encourage more girls to consider a career in pSTEM. The video series, entitled “Role Models in pSTEM: You Can Be What You Can See”, showcases ten female role models from across Ireland who have studied physics, maths, engineering, or computer science. The videos were premiered today on site at UCD with their target audience of 2nd year post-primary students. The role models were also in attendance to meet and chat with the students.
 
 <!--more-->
 
