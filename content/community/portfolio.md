@@ -3,9 +3,9 @@ widget: portfolio
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-title: RAISE community & outreach projects
+title: Some of the RAISE community & outreach projects
 subtitle: ''
-
+weight: 10 
 content:
   # Choose which content to display in the widget
   filters:
