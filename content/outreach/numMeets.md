@@ -7,7 +7,6 @@ editable: false
 commentable: false
 ---
 
-## ***Numeracy Meet Sessions***
 On this page you will find all recordings of the numeracy meets sessions and accompanying slides. If you would like to know more, please contact Dr. Mark Prendergast at mark.prendergast@ucc.ie
 
 ### Numeracy Meet 1: Introduction to numeracy
@@ -15,3 +14,10 @@ On this page you will find all recordings of the numeracy meets sessions and acc
 
 #### Session slides 
 {{% staticref "uploads/Numeracy_Meet 1 Slides- An Introduction to Numeracy.pdf" %}}Numeracy Meet 1 Slides{{% /staticref %}}
+<br>
+
+### Numeracy Meet 2: Family Numeracy
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GinCa-r-3Z0?start=12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Session slides
+{{% staticref "uploads/Numeracy_Meet 2 Slides- Family Numeracy.pdf" %}}Numeracy Meet 2 Slides{{% /staticref %}}
