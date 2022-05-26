@@ -21,7 +21,7 @@ content:
     # Uncomment below to show specific Hugo Page kinds
     kinds:
       - page
-#      - section
+      - section
 
   # Field to sort by, such as Date or Title
   sort_by: 'Date'
