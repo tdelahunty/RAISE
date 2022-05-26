@@ -7,7 +7,7 @@ editable: false
 commentable: false
 
 header:
-  image: numeracy.jpg
+  image: "numeracy.jpg"
   caption: 
 
 ---
