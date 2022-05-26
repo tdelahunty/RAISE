@@ -3,7 +3,8 @@ title: New Research Identifies Factors Affecting Access Students' Progression
 date: 2022-05-11
 summary: Minister Niall Collins launched a report highlighting the need for a range of supports to increase the progression rates of Access Foundation students to further undergraduate study. 
 
-authors: Mark
+authors:
+    - Mark
 
 profile: True
 editable: false
