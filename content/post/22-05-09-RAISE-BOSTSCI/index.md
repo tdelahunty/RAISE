@@ -1,5 +1,5 @@
 ---
-title: Boston Scientific and RAISE collaborate to offer inaugral STEM Initial Teacher Education Bursary
+title: Boston Scientific and RAISE collaborate to offer STEM Initial Teacher Education Bursary
 date: 2022-05-09
 image:
   focal_point: 'top'
