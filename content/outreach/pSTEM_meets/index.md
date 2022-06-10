@@ -19,6 +19,6 @@ image:
   alt_text:
 
 ---
-RAISE member [Aoibhinn Ni Shuilleabhain](../../authors/Aoibhinn/_index.md), with her colleague Catherine Mooney, recently launched their 'Role Models in pSTEM: You can be what you can see' project to promote and encourage careers in physics, mathematics, computer science and engineering. A series of 10 videos of diverse role models, from electricians to software engineers, are showcased in the videos and resources include a teacher booklet and slide deck. The project was a collaboration with UCD, TU Dublin and Atlantic Technological University and was funded by the HEA and the Institute of Physics. 
+RAISE member [Aoibhinn Ni Shuilleabhain](https://www.raise-stem.ie/author/aoibhinn-ni-shuilleabhain/), with her colleague Catherine Mooney, recently launched their 'Role Models in pSTEM: You can be what you can see' project to promote and encourage careers in physics, mathematics, computer science and engineering. A series of 10 videos of diverse role models, from electricians to software engineers, are showcased in the videos and resources include a teacher booklet and slide deck. The project was a collaboration with UCD, TU Dublin and Atlantic Technological University and was funded by the HEA and the Institute of Physics. 
 
 {{< cta cta_link="https://www.ucd.ie/mathstat/rolemodelsinpstem//" cta_text="Link to videos →" cta_new_tab="true" >}}
