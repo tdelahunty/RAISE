@@ -1,7 +1,7 @@
 ---
-title: UCD Showcases Ten Role Models to Encourage More Young Girls to Study pSTEM Subjects
-date: 2022-05-26
-summary: UCD has partnered with ten role models to create a series of videos to encourage more girls to consider a career in pSTEM. The video series, entitled “Role Models in pSTEM — You Can Be What You Can See”, showcases ten female role models from across Ireland who have studied physics, maths, engineering, or computer science. The videos were premiered today on site at UCD with their target audience of 2nd year post-primary students. The role models were also in attendance to meet and chat with the students.
+title: Forthcoming volume on educational research in STEm from RAISE
+date: 2022-08-23
+summary: An exciting new publication involving all current members of RAISE has moved to press today. *Perspectives in Contemporary STEM Education Research: Research methodology and design* is a forthcoming edited book from Routledge. The editors for the large international volume are RAISE Chair Dr. Tom Delahunty and RAISE Co-chair Dr. Máire Ní Ríordáin. There are various chapters available from some of the leading authors at the forefront of contemporary STEM education research, including chapters by RAISE Events Chair Dr. Mark Prendergast on designing questionnaires, and RAISE P.R.O Dr. Aoibhinn Ní Shúilleabháin on utilising lesson study as a research method. 
 
 authors: 
     - admin
