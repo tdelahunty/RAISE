@@ -1,7 +1,7 @@
 ---
 title: Forthcoming volume on educational research in STEm from RAISE
 date: 2022-08-23
-summary: An exciting new publication involving all current members of RAISE has moved to press today. *Perspectives in Contemporary STEM Education Research: Research methodology and design* is a forthcoming edited book from Routledge. The editors for the large international volume are RAISE Chair Dr. Tom Delahunty and RAISE Co-chair Dr. Máire Ní Ríordáin. There are various chapters available from some of the leading authors at the forefront of contemporary STEM education research, including chapters by RAISE Events Chair Dr. Mark Prendergast on designing questionnaires, and RAISE P.R.O Dr. Aoibhinn Ní Shúilleabháin on utilising lesson study as a research method. 
+summary: An exciting new publication involving all current members of RAISE has moved to press today. Perspectives in Contemporary STEM Education Research - Research methodology and design, is a forthcoming edited book from Routledge. The editors for the large international volume are RAISE Chair Dr. Tom Delahunty and RAISE Co-chair Dr. Máire Ní Ríordáin. There are various chapters available from some of the leading authors at the forefront of contemporary STEM education research, including chapters by RAISE Events Chair Dr. Mark Prendergast on designing questionnaires, and RAISE P.R.O Dr. Aoibhinn Ní Shúilleabháin on utilising lesson study as a research method. 
 
 authors: 
     - admin
