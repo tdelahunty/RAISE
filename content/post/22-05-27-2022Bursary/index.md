@@ -11,7 +11,7 @@ editable: false
 commentable: false
 ---
 
-RAISE is proud to have worked with Boston Scientific in establishing the first national bursary for student teachers in STEM. This bursary, open to student teachers qualifying to teach STEM subjects in their penultimate year of study, was recently awarded to ***** from University of Maynooth based on her essay 'My role as a STEM educator and advocate'. 
+RAISE is proud to have worked with Boston Scientific in establishing the first national bursary for student teachers in STEM. This bursary, open to student teachers qualifying to teach STEM subjects in their penultimate year of study, was recently awarded to Leanne O' Connor from Maynooth University based on her essay 'My role as a STEM educator and advocate'. 
 
 <!--more-->
 
