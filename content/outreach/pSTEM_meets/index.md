@@ -1,6 +1,6 @@
 ---
 title: pSTEM Role Models
-date: 2022-06-10
+date: 2022-06-26
 summary: RAISE member [Aoibhinn Ní Shuilleabháin](../../authors/Aoibhinn/_index.md) was recently involved in the production of a series of outreach videos showcasing female role models in STEM, aiming to encourage female uptake in STEM education 
 profile: false
 editable: false
