@@ -1,7 +1,7 @@
 ---
 title: Leanne O' Connor, Student Teacher from Maynooth University wins Boston Scientific and RAISE bursary
 date: 2022-10-03
-summary: RAISE are proud to have partnered with Boston Scientific in Galway to offer the first student teacher bursary to final year undergraduate student teachers of STEM subjects in Ireland. We wish to extend our congratulations to Leanne O' Connor who is thh recepient of this award in 2022 for an essay entitled 'My role as a STEM educator and advocate'. 
+summary: RAISE are proud to have partnered with Boston Scientific in Galway to offer the first student teacher bursary to final year undergraduate student teachers of STEM subjects in Ireland. We wish to extend our congratulations to Leanne O' Connor who is the recepient of this award in 2022 for an essay entitled 'My role as a STEM educator and advocate'. 
 
 authors: 
     - admin
