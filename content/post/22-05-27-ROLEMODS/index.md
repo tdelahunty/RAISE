@@ -15,7 +15,7 @@ RAISE is proud to have worked with Boston Scientific in establishing the first n
 
 <!--more-->
 
-{{< figure src="BS1.jpg" caption="Leanne with her award pictured along with RAISE Chair Dr. Tom Delahunty who attended the event in Galway >}}
+{{< figure src="BS1.jpg" caption="Leanne with her award pictured along with RAISE Chair Dr. Tom Delahunty who attended the event in Galway" >}}
 
 RAISE, a research group hoping to extend access and diversity in STEM, based the idea of the bursary on international research highlighting the positive impacts of scholarships on both the societal value of the teaching profession and the improved confidence of those eligible in their choice of career. This scholarship comes at a time of significant challenges in teacher supply with notable shortages in STEM disciplines such as Mathematics and Physics. It is hoped this bursary from Boston Scientific and RAISE will help to alleviate some of the known financial challenges, faced by those wishing to earn qualifications as a teacher in Ireland, that has been pinpointed by recent national research.
  
