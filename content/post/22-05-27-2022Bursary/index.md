@@ -21,7 +21,7 @@ RAISE, a research group hoping to extend access and diversity in STEM, based the
  
 RAISE and Boston Scientific look forward to working together to continue this bursary for STEM educators.
 
-![](BS4.jpg "*Dr. Tom Delahunty presenting to members of the Boston Scientific community on the mission and aims of RAISE*")
+![](BS3.jpg "*Dr. Tom Delahunty presenting to members of the Boston Scientific community on the mission and aims of RAISE*")
 
 
 
