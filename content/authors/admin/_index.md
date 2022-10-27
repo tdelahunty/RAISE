@@ -3,7 +3,7 @@
 title: Thomas Delahunty
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Chair of RAISE & Assistant Professor in Education
@@ -20,6 +20,7 @@ bio: My research interests include STEM & Teacher Education, Contemporary Resear
 interests:
   - Teacher Education 
   - Quant-crit Research Methods
+  - Critical theory
   - Educational Policy
   - Presage Variables & Educational Achievement
 
