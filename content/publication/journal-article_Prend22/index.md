@@ -1,5 +1,5 @@
 ---
-title: 'Delving into the shadow: Mathematics teachers perspectives on the impact of private supplementary tutoring in Ireland'
+title: 'Delving into the shadow; Mathematics teachers perspectives on the impact of private supplementary tutoring in Ireland'
 authors:
   - Mark
   - Niamh O' Meara
