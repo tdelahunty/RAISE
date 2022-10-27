@@ -1,5 +1,5 @@
 ---
-title: 'Perspectives in Contemporary STEM Education Research: Research Methodology and Design'
+title: 'Perspectives in Contemporary STEM Education Research; Research Methodology and Design'
 authors:
   - admin
   - Maire
