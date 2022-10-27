@@ -8,7 +8,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2022-13-10T00:00:00Z'
+date: '2022-13-10'
 doi: 'https://doi.org/10.4324/9781003108122'
 
 # Schedule page publish date (NOT publication's date).
