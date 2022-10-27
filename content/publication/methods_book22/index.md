@@ -8,11 +8,11 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2022-13-10'
+date: '2022-10-10T01:00:00Z'
 doi: 'https://doi.org/10.4324/9781003108122'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-26-10T00:00:00Z'
+publishDate: '2022-25-10T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -38,7 +38,7 @@ featured: false
 
 # links:
 # - name: ""
-url: "//www.routledge.com/Perspectives-in-Contemporary-STEM-Education-Research-Research-Methodology/Delahunty-Ni-Riordain/p/book/9781003108122"
+url: "//https://www.routledge.com/Perspectives-in-Contemporary-STEM-Education-Research-Research-Methodology/Delahunty-Ni-Riordain/p/book/9781003108122"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
