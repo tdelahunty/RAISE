@@ -23,7 +23,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Asian Journal for Mathematics Education* 1(3)'
+publication: '*Asian Journal for Mathematics Education*'
 publication_short: ''
 
 abstract: "Private supplementary tutoring (PT; often referred to in Ireland as “grinds”) can be defined as education outside the formal schooling system where a tutor teaches a particular subject(s) in exchange for financial gain. While PT has long been popular in East Asian countries, its provision has become a widespread phenomenon both internationally and at all levels of the Irish education system in recent years, no more so than for the subject of mathematics. However, few empirical studies have been conducted thus far on its impact. In this paper, the authors sought to investigate mathematics teachers’ perceptions of the impact of the grinds culture on the subject at the secondary level in Ireland. The data was gathered using an online survey designed by the authors and circulated to secondary
@@ -37,8 +37,8 @@ featured: false
 
 # links:
 # - name: ""
-url: "//www.journals.sagepub.com/doi/full/10.1177/27527263221129637"
-url_pdf: ''
+url: ""
+url_pdf: https://www.readcube.com/articles/10.3389/feduc.2021.666608
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -50,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: ''
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ''
   preview_only: false
 
