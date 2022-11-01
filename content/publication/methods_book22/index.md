@@ -34,7 +34,7 @@ featured: false
 
 # links:
 # - name: ""
-url: //doi.org/10.4324/9781003108122
+url: ''
 url_pdf: ''
 url_code: ''
 url_dataset: ''
