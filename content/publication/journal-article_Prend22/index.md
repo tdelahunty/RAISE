@@ -1,20 +1,18 @@
 ---
-title: 'Delving into the shadow; Mathematics teachers perspectives on the impact of private supplementary tutoring in Ireland'
+title: 'Teachers’ Perspectives on Achieving an Integrated Curricular Model of Primary STEM Education in Ireland: Authentic or Utopian Ideology?'
 authors:
+  - admin
   - Mark
-  - Niamh O' Meara
-  - Laura Duffy
-  - Iseult O' Rourke
+  - Máire
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
   - 'Equal contribution'
-  - 'Equal contribution'
-date: '2022-10-10T00:00:00Z'
-doi: '10.1177/27527263221129637'
+date: '2022-09-01T00:00:00Z'
+doi: 'https://doi.org/10.3389/feduc.2021.666608'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-10-10T00:00:00Z'
+publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,22 +21,21 @@ publishDate: '2022-10-10T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Asian Journal for Mathematics Education*'
-publication_short: 'Delving into the shadow'
+publication: '*Frontiers in Education (Lausanne), 6*'
+publication_short: ''
 
-abstract: 
-
+abstract: Integrative science, technology, engineering and mathematics (STEM) education is heralded as a promising model for effective learning of 21st century STEM literacies and has been suggested as an approach that increases student motivation and engagement. In recent years Ireland has introduced policy with a renewed emphasis on integrated STEM education across all levels of schooling and paying particular attention to the early years and primary settings. The available international literature cites many concerns with potential barriers and failures to achieve authentic integration of the various STEM disciplines in educational contexts. An important determinant of the success of integrated STEM curricula are the backgrounds and attitudes of the individual teachers, as well as supports/experiences in designing and implementing an integrated curricular approach. In the Irish context, this is often in conflict with prescribed overloaded curricula and a subject focussed education system. Therefore, research is required into primary school teachers’ perspectives on achieving a truly integrated model of STEM education, particularly in the Irish context. This study employed a qualitative approach using semi-structured interviews with a sample of practicing teachers (N = 6) to gather perspectives on the potential and challenge of integrating STEM in their respective experiences. These teachers were enrolled in a practice orientated module on STEM education as part of their postgraduate studies. The data gathered was analysed to ascertain these teachers’ perspectives on the supports needed to overcome the challenges of integrating STEM subjects within their professional settings. Essentially, the findings of this study will discuss whether such an integrated STEM model is an authentic or utopian ideology.
 
 # Summary. An optional shortened abstract.
-summary: This paper sought to investigate mathematics teachers perspectives on the impact of private supplementary tutoring (PT) on the subject at the secondary level in Ireland
+summary: This study employed a qualitative approach using semi-structured interviews with a sample of practicing teachers (N = 6) to gather perspectives on the potential and challenge of integrating STEM in their respective experiences.
 tags:
   - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
-url: '//www.journals.sagepub.com/doi/full/10.1177/27527263221129637'
-url_pdf: ''
+#   url: ""
+url_pdf: https://www.readcube.com/articles/10.3389/feduc.2021.666608
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -50,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: ''
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ''
   preview_only: false
 
