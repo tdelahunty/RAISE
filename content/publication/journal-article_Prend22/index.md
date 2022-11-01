@@ -37,8 +37,8 @@ featured: false
 
 # links:
 # - name: ""
-url: //www.sagepub.com/doi/full/10.1177/27527263221129637
-url_pdf: ''
+# url: 
+url_pdf: 'https://journals.sagepub.com/doi/epub/10.1177/27527263221129637'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -50,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
