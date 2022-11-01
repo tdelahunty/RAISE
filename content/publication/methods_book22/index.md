@@ -24,11 +24,11 @@ publication_types: ['5']
 publication: ''
 publication_short: ''
 
-abstract: 'This book presents an overview of the methodological innovations and developments present in the field of STEM education research as well as providing a practically orientated resource on research method design more broadly.
+abstract: "This book presents an overview of the methodological innovations and developments present in the field of STEM education research as well as providing a practically orientated resource on research method design more broadly.
 
 Featuring a range of international contributors in the field, the book provides a compendium of exemplary innovative methodological designs, implementations, and analyses that answer a variety of research questions relating to STEM education disciplines. Charting the thinking behind the design and implementation of successful research investigations, the book’s two parts present an accessible and pragmatically framed set of chapters that cover a range of important methodological areas presented by active researchers in the field. Ultimately, this book presents a comprehensive resource that explores the act of educational research as related to STEM.
 
-By showcasing key methodological principles with guidance on practical approaches underpinned by theory, the book offers scholarly research-informed suggestions for practice. It will be of great interest to researchers, academics, and students in the fields of STEM education and education research methods, as well as educational research more broadly'
+By showcasing key methodological principles with guidance on practical approaches underpinned by theory, the book offers scholarly research-informed suggestions for practice. It will be of great interest to researchers, academics, and students in the fields of STEM education and education research methods, as well as educational research more broadly"
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -38,7 +38,7 @@ featured: false
 
 # links:
 # - name: ""
-url: "//https://www.routledge.com/Perspectives-in-Contemporary-STEM-Education-Research-Research-Methodology/Delahunty-Ni-Riordain/p/book/9781003108122"
+url: "//www.routledge.com/Perspectives-in-Contemporary-STEM-Education-Research-Research-Methodology/Delahunty-Ni-Riordain/p/book/9781003108122"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
