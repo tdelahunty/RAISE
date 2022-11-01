@@ -37,7 +37,7 @@ featured: false
 
 # links:
 # - name: ""
-url: //journals.sagepub.com/doi/full/10.1177/27527263221129637
+url: //www.sagepub.com/doi/full/10.1177/27527263221129637
 url_pdf: ''
 url_code: ''
 url_dataset: ''
