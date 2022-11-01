@@ -1,5 +1,5 @@
 ---
-title: 'Perspectives in Contemporary STEM Education Research; Research Methodology and Design'
+title: "Perspectives in Contemporary STEM Education Research; Research Methodology and Design"
 authors:
   - admin
   - Maire
@@ -9,7 +9,7 @@ author_notes:
   - 'Equal contribution'
 
 date: '2022-10-10T01:00:00Z'
-doi: 'https://doi.org/10.4324/9781003108122'
+doi: https://doi.org/10.4324/9781003108122
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-10-10T00:00:00Z'
