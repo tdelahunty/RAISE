@@ -26,8 +26,7 @@ publication_types: ['2']
 publication: '*Asian Journal for Mathematics Education*'
 publication_short: 'Delving into the shadow'
 
-abstract: 'Private supplementary tutoring (PT - often referred to in Ireland as "grinds") can be defined as education outside the formal schooling system where a tutor teaches a particular subject(s) in exchange for financial gain. While PT has long been popular in East Asian countries, its provision has become a widespread phenomenon both internationally and at all levels of the Irish education system in recent years, no more so than for the subject of mathematics. However, few empirical studies have been conducted thus far on its impact. In this paper, the authors sought to investigate mathematics teachers’ perceptions of the impact of the grinds culture on the subject at the secondary level in Ireland. The data was gathered using an online survey designed by the authors and circulated to secondary
-mathematics teachers in November 2020. The findings from responding teachers (n=305) revealed mixed views, with both positive and negative impacts identified. Many teachers acknowledged the benefits of one-to-one support that grinds can provide and the resulting increase in students’ confidence in the subject. However, teachers also determined that grinds can cause some students to disengage in class and to be less responsible for their own individual work ethics'
+abstract: 
 
 
 # Summary. An optional shortened abstract.
