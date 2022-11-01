@@ -30,7 +30,7 @@ abstract: Private supplementary tutoring (PT - often referred to in Ireland as "
 mathematics teachers in November 2020. The findings from responding teachers (n=305) revealed mixed views, with both positive and negative impacts identified. Many teachers acknowledged the benefits of one-to-one support that grinds can provide and the resulting increase in students’ confidence in the subject. However, teachers also determined that grinds can cause some students to disengage in class and to be less responsible for their own individual work ethics
 
 # Summary. An optional shortened abstract.
-summary: This paper sought to investigate mathematics teachers’ perspectives on the impact of private supplementary tutoring (PT) on the subject at the secondary level in Ireland
+summary: This paper sought to investigate mathematics teachers perspectives on the impact of private supplementary tutoring (PT) on the subject at the secondary level in Ireland
 tags:
   - Source Themes
 featured: false
