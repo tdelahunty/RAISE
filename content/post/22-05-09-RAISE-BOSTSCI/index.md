@@ -31,7 +31,7 @@ This Bursary is open to all incoming fourth-year undergraduate students in joint
 
 If you know someone who may be interested in this please share this information with them and if you are interested in applying yourself, please have a look at the criteria document below. 
 
-{{% staticref1 "uploads/Boston Scientific STEM ITE Bursary Criteria Document_2023_Final.pdf" "newtab" %}}
+{{% staticref "uploads/Boston Scientific STEM ITE Bursary Criteria Document_2023_Final.pdf" "newtab" %}}
 
-### Click here for full information and criteria on the bursary**{{% /staticref1 %}}
+### Click here for full information and criteria on the bursary**{{% /staticref %}}
 
