@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: RAISE Public Relations Officer & Assistant Professor in Mathematics Education
+role: RAISE Public Relations Officer & Associate Professor in Mathematics Education
 
 # Organizations/Affiliations
 organizations:
