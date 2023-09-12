@@ -20,7 +20,7 @@ bio: My research interests include STEM & Teacher Education, Contemporary Resear
 interests:
   - Teacher Education 
   - Quant-crit Research Methods
-  - Critical theory
+  - Critical psychology
   - Educational Policy
   - Presage Variables & Educational Achievement
 
