@@ -32,9 +32,17 @@ On this page you will find all recordings of the numeracy meets sessions and acc
 
 ### Numeracy Meet 1: Teaching Numeracy to People With Language Needs
 {style="color: OrangeRed"} 
+
+#### Newsletter
+{style="color: BlueViolet"}
+<iframe width="700" height="450" src="https://www.youtube.com/embed/bPFAJLyUku4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% staticref "uploads/Numeracy-Meets 2023 Flyer.pdf" %}}Numeracy Meets Newsletter{{% /staticref %}}
+
+#### Recording of Session
 <iframe width="700" height="450" src="https://www.youtube.com/embed/Bev4Y4PWctI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Session slides 
+##### Session slides 
 {style="color: OrangeRed"} 
 {{% staticref "uploads/Numeracy-Meet 1 PowerPoint Slides - Teaching Numeracy to People with Language Needs.pdf" %}}Numeracy Meet 1 Slides{{% /staticref %}}
 <br>
