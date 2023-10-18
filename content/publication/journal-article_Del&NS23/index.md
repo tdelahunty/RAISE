@@ -38,8 +38,8 @@ featured: false
 
 # links:
 # - name: ""
-url: "//https://www.tandfonline.com/doi/full/10.1080/03323315.2023.2263437"
-url_pdf: //https://www.tandfonline.com/doi/epdf/10.1080/03323315.2023.2263437?needAccess=true
+url: "//tandfonline.com/doi/full/10.1080/03323315.2023.2263437"
+url_pdf: //tandfonline.com/doi/epdf/10.1080/03323315.2023.2263437?needAccess=true
 url_code: ''
 url_dataset: ''
 url_poster: ''
