@@ -24,14 +24,10 @@ publication_types: ['2']
 publication: '*Irish Educational Studies,'
 publication_short: ''
 
-abstract: Lesson study has received significant attention as a model of professional development among mathematics teachers. Evidence highlights its effectiveness in improving pedagogical practices and student learning, however, less is known about the predispositions which may encourage teachers’ participation in Lesson Study or the impact of participation on teachers’ attitudes. Such findings are relevant considering the voluntary context of teachers’ participation in professional development in Ireland.
-
-This research investigates the motivational variables which impact teachers’ participation in Lesson Study, specifically their self-efficacy in teaching mathematics for conceptual understanding and their attitudes towards self-development in Lesson Study. Post-primary mathematics teachers (N = 64), spanning various levels of experience in Lesson Study, completed a survey using a set of pre-validated scales. Findings indicate that teachers’ mathematics teaching self-efficacy is a significant predictor of their participation in Lesson Study. Furthermore, the research finds that teachers’ familiarity with Lesson Study impacts the likelihood of their participation in this model of teacher education.
-
-These findings build upon previous knowledge in this field and demonstrate the significance of teaching self-efficacy as a presage variable for developing a positive disposition towards Lesson Study. The paper discusses the implications of these findings for teacher education in Ireland.
+abstract: Lesson study has received significant attention as a model of professional development among mathematics teachers. Evidence highlights its effectiveness in improving pedagogical practices and student learning, however, less is known about the predispositions which may encourage teachers’ participation in Lesson Study or the impact of participation on teachers’ attitudes. Such findings are relevant considering the voluntary context of teachers’ participation in professional development in Ireland. This research investigates the motivational variables which impact teachers’ participation in Lesson Study, specifically their self-efficacy in teaching mathematics for conceptual understanding and their attitudes towards self-development in Lesson Study. Post-primary mathematics teachers (N = 64), spanning various levels of experience in Lesson Study, completed a survey using a set of pre-validated scales. Findings indicate that teachers’ mathematics teaching self-efficacy is a significant predictor of their participation in Lesson Study. Furthermore, the research finds that teachers’ familiarity with Lesson Study impacts the likelihood of their participation in this model of teacher education. These findings build upon previous knowledge in this field and demonstrate the significance of teaching self-efficacy as a presage variable for developing a positive disposition towards Lesson Study. The paper discusses the implications of these findings for teacher education in Ireland.
 
 # Summary. An optional shortened abstract.
-summary: This article presents research on motivational attitudes and factors in the uptake of lesson study among practiving mathematics teachers.
+summary: 'This article presents research on motivational attitudes and factors in the uptake of lesson study among practiving mathematics teachers'
 tags:
   - Source Themes
 featured: false
@@ -39,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 url: "//tandfonline.com/doi/full/10.1080/03323315.2023.2263437"
-url_pdf: //tandfonline.com/doi/epdf/10.1080/03323315.2023.2263437?needAccess=true
+url_pdf: "//tandfonline.com/doi/epdf/10.1080/03323315.2023.2263437?needAccess=true"
 url_code: ''
 url_dataset: ''
 url_poster: ''
