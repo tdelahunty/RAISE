@@ -28,7 +28,7 @@ This Bursary is open to all current fourth-year undergraduate students in joint 
 
 - Incoming/current fourth year undergraduate students in initial teacher education programmes with STEM specific subjects across the Republic of Ireland
 - Short essay, 1000 - 1500 words, personal reflection based on: *The challenges facing STEM education and my vision for the future”*
-- Email the completed essay and entry form to galway-stem@bsci.com by ***midnight Friday June 16th***
+- Email the completed essay and entry form to galway-stem@bsci.com by ***midnight Friday September 9th***
 
 If you know someone who may be interested in this please share this information with them and if you are interested in applying yourself, please have a look at the criteria document below. 
 
