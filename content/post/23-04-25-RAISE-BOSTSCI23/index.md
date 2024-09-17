@@ -1,6 +1,6 @@
 ---
 title: 2023 STEM Initial Teacher Education Bursary with Boston Scientific and RAISE
-date: 2024-09-17
+date: 2023-09-17
 image:
   focal_point: 'top'
 summary: Boston Scientific, Galway and RAISE are proud to invite students to apply to our 3rd level ITE Bursary Program which aims to support the promotion of STEM in the community. This bursary is part of an overall strategy that aligns with Boston Scientific’s STEM Strategy, where we are dedicated to inspiring a global and diverse future generation of innovators through high-quality STEM education by working with schools and organizations to increase student aspiration, ability, and access. 
